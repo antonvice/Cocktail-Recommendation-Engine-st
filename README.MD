@@ -1,6 +1,6 @@
 # A Cocktail Recommendation Engine 
 #(using streamlit, GPT-3, and Machine Learning)
-## Try the app [here]()
+## Try the app [here](https://antonvice-cocktail-recommendation-engine-st-app-arzz3v.streamlit.app/)
 ## Check out how I made it [here](https://medium.com/@AI_Digest/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc)
 
 ###Usage
